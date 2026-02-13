@@ -36,7 +36,7 @@ The goal is to identify different customer segments and help the bank improve cu
 ## ▶️ How to Run
 
 1. Clone the repository  
-   git clone 
+   git clone https://github.com/KhantZaySoe/Bank-Customer-segmentation
 
 2. Install dependencies  
    pip install -r requirements.txt
